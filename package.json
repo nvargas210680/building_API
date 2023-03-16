@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nvargas210680/building_API.git"
+  },
+  "author": "Nicolas Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvargas210680/building_API/issues"
+  },
+  "homepage": "https://github.com/nvargas210680/building_API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
